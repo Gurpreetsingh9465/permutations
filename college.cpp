@@ -23,6 +23,6 @@ void permutaions(char *s, int i, int n)
 }
 main()
 {
-    char a[] = {"AACD"};
-    permutaions(a,0,3);
+    char a[] = {"ACD"};
+    permutaions(a,0,2);
 }
